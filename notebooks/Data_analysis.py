@@ -15,7 +15,7 @@ print("STARTING DATA ANALYSIS PROJECT")
 print("\nLOADING DATA...")
 
 # Make sure the file is in the same folder
-df = pd.read_excel("Data_analysis.xlsx")
+df = pd.read_excel("data.csv")
 
 print("DATA LOADED SUCCESSFULLY")
 print("\nDATA PREVIEW:")
