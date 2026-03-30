@@ -84,6 +84,6 @@ L’analyse temporelle met en évidence des variations dans les ventes, indiquan
 
 Enfin, ce projet souligne l’importance de la qualité des données dans le processus d’analyse. Des données propres et structurées sont essentielles pour produire des analyses fiables et pertinentes.
 
-## Auteur
+## Autrice
 
 HOUNOU Akouwa Lumiere Elisee Eliane
